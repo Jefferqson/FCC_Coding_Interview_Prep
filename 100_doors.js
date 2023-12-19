@@ -1,7 +1,3 @@
-/* a program that opens and closes doors
-https://www.freecodecamp.org/learn/coding-interview-prep/rosetta-code/100-doors
-*/
-
 function getFinalOpenedDoors(numDoors) {
     const doors = [];
     for (let i = 1; i <= numDoors; i++) {
@@ -16,6 +12,3 @@ function getFinalOpenedDoors(numDoors) {
         }
       } 
     } return doors;
-    }
-console.log(getFinalOpenedDoors(100));
-
