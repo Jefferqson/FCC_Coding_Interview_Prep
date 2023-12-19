@@ -1,5 +1,6 @@
-# A program that opens and closes doors
 # https://www.freecodecamp.org/learn/coding-interview-prep/rosetta-code/100-doors
+# A program that opens and closes doors. I assumed the answer was correct because it was 
+# all the perfect squares which is too elegant to be wrong.
 
 
 doors = []
@@ -14,5 +15,4 @@ for i in range(1, 101):
             doors.sort()
         else:
             continue
-    print(f'{i}:{doors}\n')
 
