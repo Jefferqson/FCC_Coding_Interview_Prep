@@ -1,4 +1,6 @@
-// sum of multiples of 3 and 5
+// sum of multiples of 3 and 5.
+// Javascrip doesn't seem to have a range() function like Python does
+// but this can be replaced with an incrementing for loop.
 function multiplesOf3and5(number) {
     let sum = 0;
     for(let i = 0; i < number; i++) {
@@ -9,4 +11,3 @@ function multiplesOf3and5(number) {
     return sum;
 }
     
-console.log(multiplesOf3and5(1000));
