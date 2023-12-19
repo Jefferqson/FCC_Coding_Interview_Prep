@@ -19,8 +19,3 @@ function canMakeWord(word) {
 }
 
 console.log(canMakeWord("snootz"));
-
-
-// missing a comma in the blockArr resulted in undefined errors later in the code.
-// does ch in word actually work in JS, or was I doing it wrong?
-// If not, it appears word.slice(i, i+1) is one way around it
