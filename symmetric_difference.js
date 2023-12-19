@@ -19,4 +19,3 @@ function sym(...args) {
     return outputArray
 }
 
-console.log(sym([1, 1, 2, 5], [2, 2, 3, 5], [3, 4, 5, 5]))
