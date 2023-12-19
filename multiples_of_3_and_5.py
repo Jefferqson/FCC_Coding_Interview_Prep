@@ -1,4 +1,4 @@
-# sum of multiples of 3 and 5 for FCC practice
+# sum of multiples of 3 and 5 for FCC practice. Pretty straightforward.
 
 def multiples_of_3_and_5(number):
     total = 0
@@ -7,5 +7,3 @@ def multiples_of_3_and_5(number):
             total += value
     return total
 
-
-print(multiples_of_3_and_5(1000))
