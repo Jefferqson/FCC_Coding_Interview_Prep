@@ -1,3 +1,1 @@
-A repository of passing code and their Python equivalents for the various coding interview challenges offered by freeCodeCamp. This includes many Rosetta Code challenges.
-
-I have also added passing code for their Euler Project challenges.
+A repository of passing code and their Python equivalents for the various coding interview challenges offered by freeCodeCamp. This also includes passing code for both Euler Project and Rosetta Code challenges.
